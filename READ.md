@@ -14,3 +14,5 @@
 
 
 3. Crea un *sketch* para la herramienta del dashboard de Laboratoria.
+![Dashboard Principal](dashboard-gral.jpg)
+![Dashboard por Sede(dashboard-sede.jpg)
